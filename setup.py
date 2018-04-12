@@ -64,5 +64,6 @@ setup(
         'Development Status :: 4 - Beta',
         'Intended Audience :: Developers',
         'Operating System :: OS Independent',
+        'License :: OSI Approved :: Apache Software License'
     ],
 )
